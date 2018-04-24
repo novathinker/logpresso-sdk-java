@@ -1,7 +1,7 @@
 # 로그프레소 클라이언트 SDK
 
 ## 다운로드
-* [로그프레소 자바 SDK 1.0.0 다운로드](https://github.com/logpresso/logpresso-sdk-java/releases/download/1.0.0/logpresso-sdk-java-1.0.0-package.jar)
+* [로그프레소 자바 SDK 1.0.1 다운로드](hhttp://repo.logpresso.org/logpresso/logpresso-sdk-java/1.0.1/logpresso-sdk-java-1.0.1-package.jar)
 
 
 ## 자바 API
